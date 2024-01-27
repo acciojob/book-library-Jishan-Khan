@@ -23,17 +23,11 @@ body{
 .book{
 	background-color:lightgray;
 	margin-top:20px;
-	padding:15px;
-	display:flex;
-	flex-direction:column;
-	align-items:center;
-	justify-content:center;
-	
+	padding:15px;	
 }
 
 p{
 	color: #777777;
-	left:0px;
 }
 
 button{
@@ -42,4 +36,9 @@ button{
 	width:100%;
 	border:none;
 	padding:10px;
+	border-radius:5px;
+}
+
+img{
+	margin-left:35%;
 }
