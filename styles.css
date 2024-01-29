@@ -13,11 +13,11 @@ body{
 	margin:15px 30px;
 	box-shadow: 0px 5px 10px lightgray
 }
-.book-library>h1{
+.book-library>div>h1{
 	text-align:center;
+	font-size:25px;
 	background-color:lightgray;
-	padding-top:10px;
-	padding-bottom:10px;
+	padding:15px;
 }
 
 .book{
@@ -30,7 +30,7 @@ p{
 	color: #777777;
 }
 
-.button>button{
+button{
 	background-color:#2ecc71;
 	color:white;
 	width:100%;
