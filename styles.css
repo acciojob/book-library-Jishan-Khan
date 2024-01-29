@@ -39,6 +39,16 @@ p{
 }
 
 .book-cover{
+	/* background-color:rgb(46, 204, 113); */
 	display:flex;
 	justify-content:center;
+}
+
+.book-library .book .Price-block {
+    background-color: #2ecc71;
+    color: #ffffff;
+    padding: 10px;
+    text-align: center;
+    border-radius: 4px;
+    font-size: 14px;
 }
